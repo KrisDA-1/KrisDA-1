@@ -1,12 +1,12 @@
-# EngKris
-Industrial Engineer, certified as Data Analyst, coming soon Data Scientist graduated in London.
+# Hi, I'm Kris!
 
-👋I'm currently working on JEM STAFFING.
+👋Industrial Engineer, Officially certified as Data Analyst and Excel Expert.<br/> 
+💕Coming soon, will become Master in Big data and Data Science, graduated from a London University.<br/> 
 
-👀I'm currently learning SQL.
+🧐Currently working as Reporting Analyst.<br/> 
+👀Strengthening knowledge in SQL, Python, Tableau, R, PowerBI.<br/> 
+🌱I'm looking to help you, applying my DA Skills.<br/> 
 
-🌱I'm looking to collaborate on projects.
+📫How to reach me: +50585830741.<br/> 
 
-💞️I'm looking for help with DA Skills.
-
-📫How to reach me: +50585830741.
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisDA-1&show_icons=true&theme=tokyonight)
