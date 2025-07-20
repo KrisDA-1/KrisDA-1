@@ -7,7 +7,7 @@
 👀Strengthening knowledge in SQL, Python, Tableau, R, PowerBI.<br/> 
 🌱I'm looking to help you, applying my DA Skills.<br/> 
 
-📫How to reach me: +50585830741.<br/> 
+📫How to reach me: +44 7982 737 605.<br/> 
 
 # Tech Stack<br/> 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
