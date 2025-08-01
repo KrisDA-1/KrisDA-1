@@ -3,9 +3,9 @@
 👋Industrial Engineer, Officially certified as Data Analyst and Excel Expert.<br/> 
 💕Coming soon, will become Master in Big data and Data Science, graduated from a London University.<br/> 
 
-🧐Currently working as Reporting Analyst.<br/> 
-👀Strengthening knowledge in SQL, Python, Tableau, R, PowerBI.<br/> 
-🌱I'm looking to help you, applying my DA Skills.<br/> 
+🧐Currently working in a project as Junior Data Scientist.<br/> 
+👀Strengthening knowledge in SQL, SPSS, Python, Tableau, R, PowerBI.<br/> 
+🌱I'm looking to help you, applying my Technicals Skills.<br/> 
 
 📫How to reach me: +44 7982 737 605.<br/> 
 
