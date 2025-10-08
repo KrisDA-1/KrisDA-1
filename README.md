@@ -27,5 +27,11 @@ https://www.credly.com/users/krisnha-rueda
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
+###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/krisDA-1/krisDA-1/output/snake.svg" alt="Snake animation" />
+
+###
 
