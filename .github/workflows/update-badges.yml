@@ -16,5 +16,5 @@ jobs:
       - name: Update Badges
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: ${{ KrisDA-1 }} # Uses your GitHub username
-          NUMBER_LAST_BADGES: 10 # Show last 10 badges (0 = all)
+          CREDLY_USER: ${{ Krisnha Rosa Rueda Navarro }} # Uses your GitHub username
+          NUMBER_LAST_BADGES: 3 # Show last 10 badges (0 = all)
