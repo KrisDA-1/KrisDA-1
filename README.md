@@ -10,6 +10,8 @@
 📫How to reach me: +44 7982 737 605.<br/> 
 ![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) 
 https://www.linkedin.com/in/krisrn
+![Credly](https://img.shields.io/badge/credly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white))
+https://www.credly.com/users/krisnha-rueda
 
 # Tech Stack<br/> 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
