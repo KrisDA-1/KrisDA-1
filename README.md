@@ -3,9 +3,9 @@
 👋Industrial Engineer, Officially certified as Data Analyst and Excel Expert.<br/> 
 💕Coming soon, will become Master in Big data and Data Science, graduated from a London University.<br/> 
 
-🧐Currently working in a project as Junior Data Scientist.<br/> 
-👀Strengthening knowledge in SQL, SPSS, Python, Tableau, R, PowerBI.<br/> 
-🌱I'm looking to help you, applying my Technicals Skills.<br/> 
+🧐Currently working in a project as Data Scientist.<br/> 
+👀Strengthening knowledge in Machine Learning, SQL, SPSS, Python, Tableau, R, PowerBI.<br/> 
+🌱Continuos Improvement.<br/> 
 
 📫How to reach me: +44 7982 737 605.<br/> 
 
@@ -19,6 +19,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Tableau]([https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white))
+
+# Community<br/>
+![Kaggle]([https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white))
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KrisDA-1&show_icons=true&theme=tokyonight)
 
