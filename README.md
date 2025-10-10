@@ -6,15 +6,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisda-1" alt="krisda-1" /></a> </p>
 
 - 🔭 I’m currently working on **AI agent project**
-
 - 🌱 I’m currently learning **Machine Learning, AI generative**
-
 - 👨‍💻 All of my certifications are available at ![Credly](https://img.shields.io/badge/credly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)) [https://www.credly.com/users/krisnha-rueda/edit#credly](https://www.credly.com/users/krisnha-rueda/edit#credly) 
 
 - 📝 I regularly write articles on [https://blog77880.wordpress.com/](https://blog77880.wordpress.com/)
-
 - 📫 How to reach me **kris.rueda@outlook.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/krisrn](https://www.linkedin.com/in/krisrn)
 
 <h3 align="left">Connect with me:</h3>
