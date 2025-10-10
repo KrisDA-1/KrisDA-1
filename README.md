@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **AI agent project** <br/>
 - 🌱 I’m currently learning **Machine Learning, AI generative** <br/>
 - 📫 How to reach me **kris.rueda@outlook.com** <br/>
-- 👨‍💻 All of my certifications are available at ![Credly](https://img.shields.io/badge/credly-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)) [https://www.credly.com/users/krisnha-rueda/edit#credly](https://www.credly.com/users/krisnha-rueda/edit#credly) <br/>
+- 👨‍💻 All of my certifications are available at https://www.credly.com/users/krisnha-rueda/edit#credly <br/>
 - 📝 I regularly write articles on [https://blog77880.wordpress.com/](https://blog77880.wordpress.com/) <br/>
 - 📄 Know about my experiences [https://www.linkedin.com/in/krisrn](https://www.linkedin.com/in/krisrn) <br/>
 
