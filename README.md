@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krisda-1" alt="krisda-1" /></a> </p>
 
-- 🔭 I’m currently working on **AI agent project** <br/>
+- 🔭 I’m currently working on **Data Scientist job simulation** <br/>
 - 🌱 I’m currently learning **Machine Learning, AI generative** <br/>
 - 📫 How to reach me **kris.rueda@outlook.com** <br/>
 - 👨‍💻 All of my certifications are available at https://www.credly.com/users/krisnha-rueda/edit#credly <br/>
