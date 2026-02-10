@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kris</h1>
-<h3 align="center">A passionate Data Scientist</h3>
+<h3 align="center">Passionate about data</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krisda-1&label=Profile%20views&color=0e75b6&style=flat" alt="krisda-1" /> </p>
 
@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Data Scientist job simulation** <br/>
 - 🌱 I’m currently learning **Machine Learning, AI generative** <br/>
 - 📫 How to reach me **kris.rueda@outlook.com** <br/>
-- 👨‍💻 All of my certifications are available at https://www.credly.com/users/krisnha-rueda/edit#credly <br/>
+- 👨‍💻 All of my certifications are available at [click here]([https://amzn.eu/d/0af0UYmA](https://www.credly.com/users/krisnha-rueda/edit#credly)) <br/>
 - 📝 My first publication on [click here](https://amzn.eu/d/0af0UYmA) <br/>
 - 📄 Know about my experiences [click here](https://www.linkedin.com/in/krisrn) <br/>
 
