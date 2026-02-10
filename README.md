@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Machine Learning, AI generative** <br/>
 - 📫 How to reach me **kris.rueda@outlook.com** <br/>
 - 👨‍💻 All of my certifications are available at https://www.credly.com/users/krisnha-rueda/edit#credly <br/>
-- 📝 My first publication on [click here]([https://blog77880.wordpress.com/](https://amzn.eu/d/0af0UYmA) <br/>
+- 📝 My first publication on ([click here](https://amzn.eu/d/0af0UYmA) <br/>
 - 📄 Know about my experiences [click here](https://www.linkedin.com/in/krisrn) <br/>
 
 <h3 align="left">Connect with me:</h3>
