@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on **Data Scientist job simulation** <br/>
 - 🌱 I’m currently learning **Machine Learning, AI generative** <br/>
 - 📫 How to reach me **kris.rueda@outlook.com** <br/>
-- 👨‍💻 All of my certifications are available at [click here]([https://amzn.eu/d/0af0UYmA](https://www.credly.com/users/krisnha-rueda/edit#credly)) <br/>
+- 👨‍💻 All of my certifications are available at [click here](https://www.credly.com/users/krisnha-rueda/edit#credly) <br/>
 - 📝 My first publication on [click here](https://amzn.eu/d/0af0UYmA) <br/>
 - 📄 Know about my experiences [click here](https://www.linkedin.com/in/krisrn) <br/>
 
